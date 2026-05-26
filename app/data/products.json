@@ -1,0 +1,823 @@
+[
+    {
+        "id":1,
+        "slug": "barcelona-hemmatroja-2025-2026",
+        "lag": "Barcelona",
+        "liga": "La Liga",
+        "color": ["Blå", "Röd"],
+        "name": "Barcelona Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Barcelona 2025/2026 officiella kit",
+        "description": "Den officiella Barcelona Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och röda ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/barcelona-jersey.webp",
+        "images": [
+            "/images/barcelona-jersey.webp",
+            "/images/barcelona-jersey.webp",
+            "/images/barcelona-jersey.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 10,
+            "m": 15,
+            "l": 20,
+            "xl": 5
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 2,
+        "slug": "barcelona-hemmatroja-1992-1995",
+        "lag": "Barcelona",
+        "liga": "La Liga",
+        "color": ["Blå", "Röd"],
+        "name": "Barcelona Hemmatröja",
+        "seasson": "1993/1995",
+        "yearFrom": 1993,
+        "info": "Barcelona 1993/1995 officiella kit",
+        "description": "Den officiella Barcelona Hemmatröjan för säsongen 1993/1995 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och röda ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/barcelona-92-95.webp",
+        "images": [
+            "/images/barcelona-92-95.webp",
+            "/images/barcelona-92-95.webp",
+            "/images/barcelona-92-95.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 10,
+            "m": 15,
+            "l": 20,
+            "xl": 5
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":3,
+        "slug": "barcelona-hemmatroja-2010-2011",
+        "lag": "Barcelona",
+        "liga": "La Liga",
+        "color": ["Blå", "Röd"],
+        "name": "Barcelona Hemmatröja",
+        "seasson": "2010/2011",
+        "yearFrom": 2010,
+        "info": "Barcelona 2010/2011 officiella kit",
+        "description": "Den officiella Barcelona Hemmatröjan för säsongen 2010/2011 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och röda ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/barcelona-10-11.webp",
+        "images": [
+            "/images/barcelona-10-11.webp",
+            "/images/barcelona-10-11.webp",
+            "/images/barcelona-10-11.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 10,
+            "m": 15,
+            "l": 20,
+            "xl": 5
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":4,
+        "slug": "barcelona-hemmatroja-2011-2012",
+        "lag": "Barcelona",
+        "liga": "La Liga",
+        "color": ["Blå", "Röd"],
+        "name": "Barcelona Hemmatröja",
+        "seasson": "2011/2012",
+        "yearFrom": 2011,
+        "info": "Barcelona 2025/2026 officiella kit",
+        "description": "Den officiella Barcelona Hemmatröjan för säsongen 2011/2012 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och röda ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/barcelona-11-12.webp",
+        "images": [
+            "/images/barcelona-11-12.webp",
+            "/images/barcelona-11-12.webp",
+            "/images/barcelona-11-12.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 10,
+            "m": 15,
+            "l": 20,
+            "xl": 5
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":5,
+        "slug": "barcelona-hemmatroja-2012-2013",
+        "lag": "Barcelona",
+        "liga": "La Liga",
+        "color": ["Blå", "Röd"],
+        "name": "Barcelona Hemmatröja",
+        "seasson": "2012/2013",
+        "yearFrom": 2012,
+        "info": "Barcelona 2012/2013 officiella kit",
+        "description": "Den officiella Barcelona Hemmatröjan för säsongen 2012/2013 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och röda ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/barcelona-12-13.webp",
+        "images": [
+            "/images/barcelona-12-13.webp",
+            "/images/barcelona-12-13.webp",
+            "/images/barcelona-12-13.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 10,
+            "m": 15,
+            "l": 20,
+            "xl": 5
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 6,
+        "slug": "real-madrid-hemmatroja-2025-2026",
+        "lag": "Real Madrid",
+        "liga": "La Liga",
+        "color": ["Vit"],
+        "name": "Real Madrid Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Real Madrid 2025/2026 officiella kit",
+        "description": "Den officiella Real Madrid Hemmatröjan för säsongen 2025/2026 är en symbol för klubbens stolta tradition och framgångar. Tröjan har en elegant design med den klassiska vita färgen, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/real-madrid-jersey.webp",
+        "images": [
+            "/images/real-madrid-jersey.webp",
+            "/images/real-madrid-jersey.webp",
+            "/images/real-madrid-jersey.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 12,
+            "m": 18,
+            "l": 25,
+            "xl": 8
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":7,
+        "slug": "real-madrid-1990-2000",
+        "lag": "Real Madrid",
+        "liga": "La Liga",
+        "color": ["Vit"],
+        "name": "Real Madrid Hemmatröja 1990-00",
+        "seasson": "1990/2000",
+        "yearFrom": 1990,
+        "info": "Real Madrid 1990/2000 vintage officiella kit",
+        "description": "Den officiella Real Madrid Hemmatröjan för säsongen 1990/2000 är en symbol för klubbens stolta tradition och framgångar. Tröjan har en elegant design med den klassiska vita färgen, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/real-madrid-1990-00.webp",
+        "images": [
+            "/images/real-madrid-1990-00.webp",
+            "/images/real-madrid-1990-00.webp",
+            "/images/real-madrid-1990-00.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 12,
+            "m": 18,
+            "l": 25,
+            "xl": 8
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":8,
+        "slug": "real-madrid-hemmatroja-2004-2005",
+        "lag": "Real Madrid",
+        "liga": "La Liga",
+        "color": ["Vit"],
+        "name": "Real Madrid Hemmatröja 05-05",
+        "seasson": "2025/2026",
+        "yearFrom": 2004,
+        "info": "Real Madrid 2004/2005 officiella kit",
+        "description": "Den officiella Real Madrid Hemmatröjan för säsongen 2004/2005 är en symbol för klubbens stolta tradition och framgångar. Tröjan har en elegant design med den klassiska vita färgen, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/real-madrid-04-05.webp",
+        "images": [
+            "/images/real-madrid-04-05.webp",
+            "/images/real-madrid-04-05.webp",
+            "/images/real-madrid-04-05.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 12,
+            "m": 18,
+            "l": 25,
+            "xl": 8
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":9,
+        "slug": "real-madrid-hemmatroja-2015-2016",
+        "lag": "Real Madrid",
+        "liga": "La Liga",
+        "color": ["Vit"],
+        "name": "Real Madrid Hemmatröja 15-16",
+        "seasson": "2015/2016",
+        "yearFrom": 2015,
+        "info": "Real Madrid 2015/2016 officiella kit",
+        "description": "Den officiella Real Madrid Hemmatröjan för säsongen 2015/2016 är en symbol för klubbens stolta tradition och framgångar. Tröjan har en elegant design med den klassiska vita färgen, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/real-madrid-15-16.webp",
+        "images": [
+            "/images/real-madrid-15-16.webp",
+            "/images/real-madrid-15-16.webp",
+            "/images/real-madrid-15-16.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 12,
+            "m": 18,
+            "l": 25,
+            "xl": 8
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":10,
+        "slug": "real-madrid-hemmatroja-2022-2023",
+        "lag": "Real Madrid",
+        "liga": "La Liga",
+        "color": ["Vit"],
+        "name": "Real Madrid Hemmatröja 22-23",
+        "seasson": "2022/2023",
+        "yearFrom": 2022,
+        "info": "Real Madrid 2022/2023 officiella kit",
+        "description": "Den officiella Real Madrid Hemmatröjan för säsongen 2022/2023 är en symbol för klubbens stolta tradition och framgångar. Tröjan har en elegant design med den klassiska vita färgen, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/real-madrid-22-23.webp",
+        "images": [
+            "/images/real-madrid-22-23.webp",
+            "/images/real-madrid-22-23.webp",
+            "/images/real-madrid-22-23.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 12,
+            "m": 18,
+            "l": 25,
+            "xl": 8
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    { 
+        "id":11,
+        "slug": "manchester-united-hemmatroja-2025-2026",
+        "lag": "Manchester United",
+        "liga": "Premier League",
+        "color": ["Röd", "Svart"],
+        "name": "Manchester United Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Manchester United 2025/2026 officiella kit",
+        "description": "Den officiella Manchester United Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och svarta ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/manchester-jersey.webp",
+        "images": [
+            "/images/manchester-jersey.webp",
+            "/images/manchester-jersey.webp",
+            "/images/manchester-jersey.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 15,
+            "m": 20,
+            "l": 25,
+            "xl": 10
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    { 
+        "id":12,
+        "slug": "manchester-united-hemmatroja-2022-2023",
+        "lag": "Manchester United",
+        "liga": "Premier League",
+        "color": ["Röd", "Svart"],
+        "name": "Manchester United Hemmatröja",
+        "seasson": "2022/2023",
+        "yearFrom": 2022,
+        "info": "Manchester United 2022/2023 officiella kit",
+        "description": "Den officiella Manchester United Hemmatröjan för säsongen 2022/2023 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och svarta ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/manchester-united-22-23.webp",
+        "images": [
+            "/images/manchester-united-22-23.webp",
+            "/images/manchester-united-22-23.webp",
+            "/images/manchester-united-22-23.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 15,
+            "m": 20,
+            "l": 25,
+            "xl": 10
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    { 
+        "id":13,
+        "slug": "manchester-united-hemmatroja-2006-208",
+        "lag": "Manchester United",
+        "liga": "Premier League",
+        "color": ["Röd", "Svart"],
+        "name": "Manchester United Hemmatröja",
+        "seasson": "2006/2008",
+        "yearFrom": 2006,
+        "info": "Manchester United 2006/2008 officiella kit",
+        "description": "Den officiella Manchester United Hemmatröjan för säsongen 2006/2008 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och svarta ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/manchester-united-06-08.webp",
+        "images": [
+            "/images/manchester-united-06-08.webp",
+            "/images/manchester-united-06-08.webp",
+            "/images/manchester-united-06-08.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 15,
+            "m": 20,
+            "l": 25,
+            "xl": 10
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    { 
+        "id":14,
+        "slug": "manchester-united-hemmatroja-1997-1999",
+        "lag": "Manchester United",
+        "liga": "Premier League",
+        "color": ["Röd", "Svart"],
+        "name": "Manchester United Hemmatröja",
+        "seasson": "1997/1999",
+        "yearFrom": 1997,
+        "info": "Manchester United 2025/2026 officiella kit",
+        "description": "Den officiella Manchester United Hemmatröjan för säsongen 1997/1999 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och svarta ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/manchester-united-97-99.webp",
+        "images": [
+            "/images/manchester-united-97-99.webp",
+            "/images/manchester-united-97-99.webp",
+            "/images/manchester-united-97-99.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 15,
+            "m": 20,
+            "l": 25,
+            "xl": 10
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    { 
+        "id":15,
+        "slug": "manchester-united-hemmatroja-1990-1992",
+        "lag": "Manchester United",
+        "liga": "Premier League",
+        "color": ["Röd", "Svart"],
+        "name": "Manchester United Hemmatröja",
+        "seasson": "1990/1992",
+        "yearFrom": 1990,
+        "info": "Manchester United 1990/1992 officiella kit",
+        "description": "Den officiella Manchester United Hemmatröjan för säsongen 1990/1992 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och svarta ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/manchester-united-90-92.webp",
+        "images": [
+            "/images/manchester-united-90-92.webp",
+            "/images/manchester-united-90-92.webp",
+            "/images/manchester-united-90-92.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 15,
+            "m": 20,
+            "l": 25,
+            "xl": 10
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":16,
+        "slug": "juventus-hemmatroja-2025-2026",
+        "lag": "Juventus",
+        "liga": "Serie A",
+        "color": ["Svart", "Vit"],
+        "name": "Juventus Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Juventus 2025/2026 officiella kit",
+        "description": "Den officiella Juventus Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska svarta och vita ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/juventus-jersey.webp",
+        "images": [
+            "/images/juventus-jersey.webp",
+            "/images/juventus-jersey.webp",
+            "/images/juventus-jersey.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 20,
+            "m": 25,
+            "l": 30,
+            "xl": 15
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id":17,
+        "slug": "juventus-hemmatroja-2022-2023",
+        "lag": "Juventus",
+        "liga": "Serie A",
+        "color": ["Svart", "Vit"],
+        "name": "Juventus Hemmatröja",
+        "seasson": "2022/2023",
+        "yearFrom": 2022,
+        "info": "Juventus 2022/2023 officiella kit",
+        "description": "Den officiella Juventus Hemmatröjan för säsongen 2022/2023 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska svarta och vita ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/juventus-22-23.webp",
+        "images": [
+            "/images/juventus-22-23.webp",
+            "/images/juventus-22-23.webp",
+            "/images/juventus-22-23.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 20,
+            "m": 25,
+            "l": 30,
+            "xl": 15
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id":18,
+        "slug": "juventus-hemmatroja-2021-2022",
+        "lag": "Juventus",
+        "liga": "Serie A",
+        "color": ["Svart", "Vit"],
+        "name": "Juventus Hemmatröja",
+        "seasson": "2022/2023",
+        "yearFrom": 2021,
+        "info": "Juventus 2021/2022 officiella kit",
+        "description": "Den officiella Juventus Hemmatröjan för säsongen 2021/2022 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska svarta och vita ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/juventus-21-22.webp",
+        "images": [
+            "/images/juventus-21-22.webp",
+            "/images/juventus-21-22.webp",
+            "/images/juventus-21-22.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 20,
+            "m": 25,
+            "l": 30,
+            "xl": 15
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id":19,
+        "slug": "juventus-hemmatroja-2019-2020",
+        "lag": "Juventus",
+        "liga": "Serie A",
+        "color": ["Svart", "Vit"],
+        "name": "Juventus Hemmatröja",
+        "seasson": "2019/2020",
+        "yearFrom": 2019,
+        "info": "Juventus 2019/2020 officiella kit",
+        "description": "Den officiella Juventus Hemmatröjan för säsongen 2019/2020 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska svarta och vita ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/juventus-19-20.webp",
+        "images": [
+            "/images/juventus-19-20.webp",
+            "/images/juventus-19-20.webp",
+            "/images/juventus-19-20.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 20,
+            "m": 25,
+            "l": 30,
+            "xl": 15
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id":20,
+        "slug": "juventus-hemmatroja-2003-2004",
+        "lag": "Juventus",
+        "liga": "Serie A",
+        "color": ["Svart", "Vit"],
+        "name": "Juventus Hemmatröja",
+        "seasson": "2003/2004",
+        "yearFrom": 2003,
+        "info": "Juventus 2003/2004 officiella kit",
+        "description": "Den officiella Juventus Hemmatröjan för säsongen 2003/2004 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska svarta och vita ränderna, som representerar klubbens färger. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/juventus-03-04.webp",
+        "images": [
+            "/images/juventus-03-04.webp",
+            "/images/juventus-03-04.webp",
+            "/images/juventus-03-04.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": {
+            "s": 20,
+            "m": 25,
+            "l": 30,
+            "xl": 15
+        },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 21,
+        "slug": "bayern-munchen-hemmatroja-2003-2004",
+        "lag": "Bayern Munchen",
+        "liga": "Bundesliga",
+        "color": ["Röd", "Vit"],
+        "name": "Bayern München Hemmatröja",
+        "seasson": "2003/2004",
+        "yearFrom": 2003,
+        "info": "Bayern München 2003/2004 officiella kit",
+        "description": "Den officiella Bayern München Hemmatröjan för säsongen 2003/2004 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/bayern-03-04.webp",
+        "images": [
+            "/images/bayern-03-04.webp",
+            "/images/bayern-03-04.webp",
+            "/images/bayern-03-04.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 22,
+        "slug": "bayern-munchen-hemmatroja-2014-2015",
+        "lag": "Bayern Munchen",
+        "liga": "Bundesliga",
+        "color": ["Röd", "Vit"],
+        "name": "Bayern München Hemmatröja",
+        "seasson": "2014/2015",
+        "yearFrom": 2014,
+        "info": "Bayern München 2014/2015 officiella kit",
+        "description": "Den officiella Bayern München Hemmatröjan för säsongen 2014/2015 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/bayern-14-15.webp",
+        "images": [
+            "/images/bayern-14-15.webp",
+            "/images/bayern-14-15.webp",
+            "/images/bayern-14-15.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },"material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 23,
+        "slug": "bayern-munchen-hemmatroja-2024-2025",
+        "lag": "Bayern Munchen",
+        "liga": "Bundesliga",
+        "color": ["Röd", "Vit"],
+        "name": "Bayern München Hemmatröja",
+        "seasson": "2024/2025",
+        "yearFrom": 2024,
+        "info": "Bayern Munchen 2024/2025 officiella kit",
+        "description": "Den officiella Bayern München Hemmatröjan för säsongen 2024/2025 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/bayern-24-25.webp",
+        "images": [
+            "/images/bayern-24-25.webp",
+            "/images/bayern-24-25.webp",
+            "/images/bayern-24-25.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 24,
+        "slug": "bayern-munchen-hemmatroja-2026-2027",
+        "lag": "Bayern München",
+        "liga": "Bundesliga",
+        "color": ["Röd", "Vit"],
+        "name": "Bayern Munchen Hemmatröja",
+        "seasson": "2026/2027",
+        "yearFrom": 2026,
+        "info": "Bayern München 2026/2027 officiella kit",
+        "description": "Den officiella Bayern München Hemmatröjan för säsongen 2026/2027 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/bayern-26-27.webp",
+        "images": [
+            "/images/bayern-26-27.webp",
+            "/images/bayern-26-27.webp",
+            "/images/bayern-26-27.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 25,
+        "slug": "bayern-munchen-hemmatroja-2025-2026",
+        "lag": "Bayern Munchen",
+        "liga": "Bundesliga",
+        "color": ["Röd", "Vit"],
+        "name": "Bayern München Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Bayern München 2025/2026 officiella kit",
+        "description": "Den officiella Bayern München Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska röda och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/bayern-25-26.jpg",
+        "images": [
+            "/images/bayern-25-26.jpg",
+            "/images/bayern-25-26.jpg",
+            "/images/bayern-25-26.jpg"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    },
+    {
+        "id": 26,
+        "slug": "sporting-cristal-hemmatroja-2025-2026",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Sporting Cristal 2025/2026 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-2025.jpg",
+        "images": [
+            "/images/sporting-2025.jpg",
+            "/images/sporting-2025.jpg",
+            "/images/sporting-2025.jpg"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 27,
+        "slug": "sporting-cristal-hemmatroja-2025-2026-alternativa",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "2025/2026",
+        "yearFrom": 2025,
+        "info": "Sporting Cristal 2025/2026 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 2025/2026 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-2025-alt.webp",
+        "images": [
+            "/images/sporting-2025-alt.webp",
+            "/images/sporting-2025-alt.webp",
+            "/images/sporting-2025-alt.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 28,
+        "slug": "sporting-cristal-hemmatroja-2000",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "2000/2001",
+        "yearFrom": 2000,
+        "info": "Sporting Cristal 2000/2001 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 2000/2001 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-2000.webp",
+        "images": [
+            "/images/sporting-2000.webp",
+            "/images/sporting-2000.webp",
+            "/images/sporting-2000.webp"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 29,
+        "slug": "sporting-cristal-hemmatroja-98-99",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "1998/1999",
+        "yearFrom": 1998,
+        "info": "Sporting Cristal 1998/1999 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 1998/1999 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-98-99.jfif",
+        "images": [
+            "/images/sporting-98-99.jfif",
+            "/images/sporting-98-99.jfif",
+            "/images/sporting-98-99.jfif"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 30,
+        "slug": "sporting-cristal-hemmatroja-97-98",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "1997/1998",
+        "yearFrom": 1997,
+        "info": "Sporting Cristal 1997/1998 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 1997/1998 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-97.jfif",
+        "images": [
+            "/images/sporting-97.jfif",
+            "/images/sporting-97.jfif",
+            "/images/sporting-97.jfif"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+    ,
+    {
+        "id": 31,
+        "slug": "sporting-cristal-hemmatroja-97-98-alternativa",
+        "lag": "Sporting Cristal",
+        "liga": "Liga 1",
+        "color": ["Blå", "Vit"],
+        "name": "Sporting Cristal Hemmatröja",
+        "seasson": "1997/1998",
+        "yearFrom": 1997,
+        "info": "Sporting Cristal 1997/1998 officiella kit",
+        "description": "Den officiella Sporting Cristal Hemmatröjan för säsongen 1997/1998 är en hyllning till klubbens rika historia och passionerade fans. Tröjan har en klassisk design med de ikoniska blå och vita färgerna, som representerar klubbens identitet. Tillverkad av högkvalitativt material, erbjuder tröjan både komfort och hållbarhet, perfekt för att visa ditt stöd på matchdagen eller i vardagen.",
+        "price": 899,
+        "image": "/images/sporting-97-alt.jpg",
+        "images": [
+            "/images/sporting-97-alt.jpg",
+            "/images/sporting-97-alt.jpg",
+            "/images/sporting-97-alt.jpg"
+        ],
+        "storlek": ["s", "m", "l", "xl"],
+        "lager": { "s": 20, "m": 25, "l": 30, "xl": 15 },
+        "material": "100% polyester av hög kvalitet. Andningsbart material med Dri-FIT teknologi.",
+        "care": "Tvätta i 30 grader. Stryk ej på tryck. Torktumla ej."
+    }
+]

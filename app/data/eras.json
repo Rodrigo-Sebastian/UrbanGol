@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "slug": "90s",
+    "title": "90-talet",
+    "description": "Det mest passionerade fotbollet — Ronaldo, Zidane, Cantona",
+    "image": "/images/90s.jpg",
+    "yearFrom": 1990,
+    "yearTo": 1999
+  },
+  {
+    "id": 2,
+    "slug": "00s",
+    "title": "2000-talet",
+    "description": "Ronaldinho, Ronaldo Nazário, det totala fotbollet",
+    "image": "/images/00s.webp",
+    "yearFrom": 2000,
+    "yearTo": 2009
+  },
+  {
+    "id": 3,
+    "slug": "10s",
+    "title": "2010-talet",
+    "description": "Messi mot Ronaldo — det gyllene decenniet",
+    "image": "/images/2010s.jpg",
+    "yearFrom": 2010,
+    "yearTo": 2019
+  },
+  {
+    "id": 4,
+    "slug": "modern",
+    "title": "Modern era",
+    "description": "Dagens tröjor — 2020 och framåt",
+    "image": "/images/era-moderna.jpg",
+    "yearFrom": 2020,
+    "yearTo": 2099
+  }
+]

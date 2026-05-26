@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "slug": "real-madrid",
+    "lag": "Real Madrid",
+    "title": "Real Madrid Officiell Merchandise",
+    "description": "Kungarna av Champions League",
+    "cardImage": "/images/realmadrid-hero.webp",
+    "image": "/images/realmadrid-wallpaper.webp",
+    "imageLogo": "/images/real-madrid-logo.png",
+    "bgColor": "bg-slate-600",
+    "link": "/products/real-madrid"
+  },
+  {
+    "id": 2,
+    "slug": "barcelona",
+    "lag": "Barcelona",
+    "title": "Barcelona Officiell Merchandise",
+    "description": "Kataloniens stolthet",
+    "cardImage": "/images/barcelona-hero.jfif",
+    "image": "/images/barcelona-wallpaper.jpg",
+    "imageLogo": "/images/barcelona-logo.png",
+    "bgColor": "bg-rose-900",
+    "link": "/products/barcelona"
+  },
+  {
+    "id": 3,
+    "slug": "manchester-united",
+    "lag": "Manchester United",
+    "title": "Manchester United Officiell Merchandise",
+    "description": "Englands röda djävlar",
+    "cardImage": "/images/manchester-united-hero.jpg",
+    "image": "/images/manchesterunited-wallpaper.jpg",
+    "imageLogo": "/images/manchester-united-logo.png",
+    "bgColor": "bg-black",
+    "link": "/products/manchester-united"
+  },
+  {
+    "id": 4,
+    "slug": "juventus",
+    "lag": "Juventus",
+    "title": "Juventus Officiell Merchandise",
+    "description": "Italiens och Serie A:s kungar",
+    "cardImage": "/images/juventus-hero.jpg",
+    "image": "/images/juventus-wallpaper.webp",
+    "imageLogo": "/images/juventus-logo.png",
+    "bgColor": "bg-gray-400",
+    "link": "/products/juventus"
+  },
+  {
+    "id": 5,
+    "slug": "bayern-munchen",
+    "lag": "Bayern Munchen",
+    "title": "Bayern München Officiell Merchandise",
+    "description": "Tysklands och Bundesligas titaner",
+    "cardImage": "/images/bayern-munich-hero.avif",
+    "image": "/images/bayern-wallpaper.jpg",
+    "imageLogo": "/images/bayern-logo.png",
+    "bgColor": "bg-taupe-300",
+    "link": "/products/bayern-munchen"
+  },
+  {
+    "id": 6,
+    "slug": "sporting-cristal",
+    "lag": "Sporting Cristal",
+    "title": "Sporting Cristal Officiell Merchandise",
+    "description": "Perus mest mästerskapsvinnande lag",
+    "cardImage": "/images/sc-hero.webp",
+    "image": "/images/fanatico-celeste-hero.jpg",
+    "imageLogo": "/images/sporting-cristal-logo.png",
+    "bgColor": "bg-sky-300",
+    "link": "/products/sporting-cristal"
+  }
+]

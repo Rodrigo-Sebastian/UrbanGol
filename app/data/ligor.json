@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "la-liga",
+    "logo": "/images/laliga-retro.png",
+    "name": "La Liga",
+    "land": "Spanien",
+    "image": "/images/la-liga.jpg",
+    "banner": "/images/la-liga.jpg",
+    "description": "La Liga är den högsta fotbollsligan i Spanien och en av de mest prestigefyllda ligorna i världen.",
+    "color": "bg-orange-600",
+    "lag": ["Barcelona", "Real Madrid", "Atletico Madrid", "Sevilla"]
+  },
+  {
+    "slug": "premier-league",
+    "logo": "/images/premier-league-retro.png",
+    "name": "Premier League",
+    "land": "England",
+    "image": "/images/premier-league-banner.webp",
+    "banner": "/images/premier-league-banner.webp",
+    "description": "Premier League är den högsta fotbollsligan i England och den mest sedda ligan i världen.",
+    "color": "bg-purple-800",
+    "lag": ["Manchester United", "Arsenal", "Chelsea", "Liverpool", "Manchester City"]
+  },
+  {
+    "slug": "serie-a",
+    "logo": "/images/serie-a1.png",
+    "name": "Serie A",
+    "land": "Italien",
+    "image": "/images/serie-a-banner.jpg",
+    "banner": "/images/serie-a-banner.jpg",
+    "description": "Serie A är den högsta fotbollsligan i Italien med klubbar som Juventus, Milan och Inter.",
+    "color": "bg-blue-800",
+    "lag": ["Juventus", "AC Milan", "Inter Milan", "AS Roma"]
+  },
+  {
+    "slug": "bundesliga",
+    "logo": "/images/bundesliga.png",
+    "name": "Bundesliga",
+    "land": "Tyskland",
+    "image": "/images/bundesliga-banner.webp",
+    "banner": "/images/bundesliga-banner.webp",
+    "description": "Bundesliga är den högsta fotbollsligan i Tyskland, känd för sina passionerade fans och höga publiksiffror.",
+    "color": "bg-red-600",
+    "lag": ["Bayern München", "Borussia Dortmund", "RB Leipzig"]
+  },
+  {
+    "slug": "Liga-1",
+    "logo": "/images/liga-1.png",
+    "name": "Liga 1 Max",
+    "land": "Peru",
+    "image": "/images/bundesliga-banner.webp",
+    "banner": "/images/bundesliga-banner.webp",
+    "description": "Första profetionella liga i Peru.",
+    "color": "bg-black",
+    "lag": ["Sporting Cristal", "Universitario de deportes", "Alianza Lima"]
+  }
+]
