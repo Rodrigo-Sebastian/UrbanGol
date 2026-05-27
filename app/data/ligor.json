@@ -48,8 +48,8 @@
     "logo": "/images/liga-1.png",
     "name": "Liga 1 Max",
     "land": "Peru",
-    "image": "/images/bundesliga-banner.webp",
-    "banner": "/images/bundesliga-banner.webp",
+    "image": "/images/liga-1-max.png",
+    "banner": "/images/liga-1-max.png",
     "description": "Första profetionella liga i Peru.",
     "color": "bg-black",
     "lag": ["Sporting Cristal", "Universitario de deportes", "Alianza Lima"]
